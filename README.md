@@ -10,5 +10,5 @@
   ------------------ | -------------------------------------------
    Reading in Computer Science | Software Architecture and Design
    Design and Analysis of Algorithm |   Network Forensics                    
-   Research Methods in Computer Science | Software Testing and Quality Assurance
+   Research Methods in Computer Science | Software Testing and Quality Assurance***
    
