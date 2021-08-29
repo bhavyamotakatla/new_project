@@ -18,8 +18,8 @@
    -----
    
    I Myself Bhavya Motakatla prefered calling Bhavya. I'm an international student came to do my graduation degree in Computer Science department
-   Pursing my 1st year 2nd sem. During my undergraduate I have learned a lot within the field of Computers. Few of the subjects that I found 
-   intriguing were Database systems and Computer networks, I was amazed by the network models and the various architectures and protocols involved.
+   Pursing my 1st year 2nd sem. During my undergraduate I have learned a lot within the field of Computers. Few of the subjects 
+   that I found intriguing were Database systems and Computer networks, I was amazed by the network models and the various architectures and protocols involved.
    My undergraduate studies enabled me to grasp the fundamentals related to Computer Science 
    and Engineering.
    
