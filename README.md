@@ -7,7 +7,7 @@
 * ***Languages Known*** :  Java , C, I just know very basics of C++ but have no experience in it.
 * ***Computer science and Software engineering Courses taken*** :
 
-***Computer Science    | Software Engineering*** 
+***Computer Science***    | ***Software Engineering*** 
   ------------------ | -------------------------------------------
    Reading in Computer Science | Software Architecture and Design
    Design and Analysis of Algorithm |   Network Forensics                    
