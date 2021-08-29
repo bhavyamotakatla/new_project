@@ -1,3 +1,7 @@
 # Introduction
 ---
-* NAME : BHAVYA MOTAKATLA
+* Name : BHAVYA MOTAKATLA
+* prefered Name : Bhavya
+* Class Rank : Graduate Student
+* 
+* 
