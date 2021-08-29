@@ -17,8 +17,8 @@
    ***Little Introduction About Me***
    -----
    
-   I myself Bhavya Motakatla prefered calling Bhavya. I'm an international student came to do my graduation degree in Computer Science department <p style="text-align: center;">Centered text</p>
-   pursing my 1st year 2nd sem. During my undergraduate I have learned a lot within the field of Computers. Few of the subjects  
+   I myself Bhavya Motakatla prefered calling Bhavya. I'm an international student came to do my graduation degree in Computer Science department 
+   pursing my 1st year 2nd sem. During my undergraduate I have learned a lot within the field of Computers. Few of the subjects <p style="text-align: center;">Centered text</p>  
    I found interesting were Database systems and Computer networks, I was amazed by the network models and the various architectures and protocols involved.
    My undergraduate studies enabled me to grasp the fundamentals related to Computer Science
    and Engineering. After my under graduation, I was one of the few candidates selected in recruitment process of EPAM SYSTEMS, which is world’s largest world IT service provider. This placement had harvested the
