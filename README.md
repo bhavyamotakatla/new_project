@@ -28,8 +28,7 @@ knowledge in the field, I am certain that Masters Program is going to provide me
 exposure to my interested field of study and become an industry ready. Therefore, after a lot of
 contemplation and speaking to my professors and colleagues I have decided to pursue my MS
 Degree in Computer Science. The field of computer science is vast and the advancements in this
-field are tremendous. Being part of this intriguing field, if I could contribute even 1% to it I
-would beoverwhelmed.
+field are tremendous. Being part of this intriguing field, if I could contribute even 1% to it I would be overwhelmed.
 
 My ultimate goal in my career is to make a commendable contribution to the computing world, either by starting an innovative venture or doing research which would change the dimensions of future computing and the way we perceive the computers. I believe that a dedicated study would enable me to achieve my career goals. After doing further research on the university and
 going through its website I realized that your reputed University has a strong faculty and
