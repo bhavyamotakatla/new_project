@@ -14,5 +14,8 @@
    Research Methods in Computer Science | Software Testing and Quality Assurance
    
    ---
-   Self Introduction
+   ***Little Introduction About Me***
+   I Myself Bhavya Motakatla prefered calling Bhavya. I'm an international student came to do graduation in Computer Science department pursing my 1st year 2nd sem.
+   
+   
    
